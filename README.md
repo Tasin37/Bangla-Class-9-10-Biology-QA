@@ -1,5 +1,5 @@
 # Bangla-Class-9-10-Biology-QA
-# 🇧🇩 Bangla Educational Question Answering using RAG
+# Bangla Educational Question Answering using RAG
 
 This project enhances factual accuracy in Bangla educational question answering by combining **Retrieval-Augmented Generation (RAG)** with **Large Language Models (LLMs)**.
 
